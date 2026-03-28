@@ -8,8 +8,7 @@ I’m developing practical projects to strengthen my understanding of back-end d
 
 Interested in opportunities to collaborate on projects and continue improving my technical skills.
 
-Contact:
-Email: [vitor8684oliveira@gmail.com](mailto:vitor8684oliveira@gmail.com)
+Contact Email: [vitor8684oliveira@gmail.com](mailto:vitor8684oliveira@gmail.com)
 
 
 <!---
